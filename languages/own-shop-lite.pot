@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-02-25 13:53+0530\n"
+"PO-Revision-Date: 2022-02-25 13:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;esc_html;esc_html__;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:35
+msgid ""
+"You need to update your PHP version to a minimum of 5.6 to run Own Shop Lite "
+"WordPress Theme."
+msgstr ""
+
+#: functions.php:38
+msgid "Actual version is:"
+msgstr ""
+
+#: functions.php:40
+msgid "required is"
+msgstr ""
+
+#: functions.php:159
+msgid "Topbar Sidebar"
+msgstr ""
+
+#: functions.php:161
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/customizer.php:26 inc/starter-content.php:626
+msgid "Category Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:42
+msgid "Category Menu Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:62
+msgid "Show Category Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:80 inc/customizer/customizer.php:104
+msgid "Category Menu Heading"
+msgstr ""
+
+#: inc/customizer/customizer.php:93 inc/template-functions.php:90
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/customizer.php:120
+msgid ""
+"To show the menu, Please first create a new menu ( Appearance -> Menus ) and "
+"then set its display location to \"Category Menu\". You can create a menu up "
+"to 3 nested levels."
+msgstr ""
+
+#: inc/customizer/customizer.php:140 inc/theme-info.php:305
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:163
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:185
+msgid "Category Menu Background Color"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:16
+msgid "Skip to content"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:40
+msgid "logo"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:86 inc/header-menu/content-style1.php:176
+#: inc/header-menu/content-style1.php:213
+msgid "primary"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:94 inc/header-menu/content-style1.php:183
+#: inc/header-menu/content-style1.php:220
+msgid "MENU"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:96 inc/header-menu/content-style1.php:185
+#: inc/header-menu/content-style1.php:222
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/starter-content.php:20
+msgid "Gutenberg Home"
+msgstr ""
+
+#: inc/starter-content.php:486
+msgid "Contact"
+msgstr ""
+
+#: inc/starter-content.php:566
+msgid "WooCommerce WordPress theme"
+msgstr ""
+
+#: inc/starter-content.php:588
+msgid "Quick Links"
+msgstr ""
+
+#: inc/starter-content.php:590
+msgid "About Us"
+msgstr ""
+
+#: inc/starter-content.php:591
+msgid "Why Own Shop Lite"
+msgstr ""
+
+#: inc/starter-content.php:592
+msgid "Customer Reviews"
+msgstr ""
+
+#: inc/starter-content.php:593
+msgid "Support"
+msgstr ""
+
+#: inc/starter-content.php:594
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/starter-content.php:595
+msgid "Terms & Conditions"
+msgstr ""
+
+#: inc/starter-content.php:607
+msgid "footer logo"
+msgstr ""
+
+#: inc/starter-content.php:618
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "About Own Shop Lite Theme"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "Own Shop Lite Info"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "own-shop-lite-theme-info"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "own_shop_lite_theme_info"
+msgstr ""
+
+#: inc/theme-info.php:149
+msgid "Thank you for using Own Shop Lite Free WordPress theme"
+msgstr ""
+
+#: inc/theme-info.php:151
+msgid ""
+"Own Shop Lite is a well designed multipurpose WOOCOMMERCE theme suitable for "
+"all kinds of small businesses. Themes is easy to use and can be easily "
+"customized for your needs. Best for Furnitures, Clothing, Gaming, Groceries, "
+"Electronics, Tech Stores etc. Own Shop Lite is compatible with WooCommerce "
+"GUTENBERG blocks and ELEMENTOR page builder. This theme is SEO friendly, RTL "
+"Ready and TRANSLATION ready too. Reach out to our support forums if you need "
+"a help, we are ready to answer your SUPPORT questions."
+msgstr ""
+
+#: inc/theme-info.php:163
+msgid "VIEW DEMO"
+msgstr ""
+
+#: inc/theme-info.php:173
+msgid "VIEW DOCUMENTATION"
+msgstr ""
+
+#: inc/theme-info.php:183
+msgid "VIDEO TUTORIALS"
+msgstr ""
+
+#: inc/theme-info.php:193
+msgid "ASK FOR SUPPORT"
+msgstr ""
+
+#: inc/theme-info.php:204
+msgid "RATE OUR THEME"
+msgstr ""
+
+#: inc/theme-info.php:214
+msgid "VIEW CHANGELOGS"
+msgstr ""
+
+#: inc/theme-info.php:223
+msgid "Why should you Upgrade to our PRO Addon ?"
+msgstr ""
+
+#: inc/theme-info.php:228
+msgid "Feature"
+msgstr ""
+
+#: inc/theme-info.php:229
+msgid "Own Shop Lite"
+msgstr ""
+
+#: inc/theme-info.php:230
+msgid "Pro Addon Plugin"
+msgstr ""
+
+#: inc/theme-info.php:235
+msgid "Favicon, Logo, Title and Tagline Customization"
+msgstr ""
+
+#: inc/theme-info.php:240
+msgid "Customizer Theme Options"
+msgstr ""
+
+#: inc/theme-info.php:245
+msgid "2 Custom Widgets"
+msgstr ""
+
+#: inc/theme-info.php:250
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/theme-info.php:255
+msgid "Product Category Menu"
+msgstr ""
+
+#: inc/theme-info.php:260
+msgid "Menu Cart"
+msgstr ""
+
+#: inc/theme-info.php:265
+msgid "2 Layout Settings"
+msgstr ""
+
+#: inc/theme-info.php:270
+msgid "Top Bar"
+msgstr ""
+
+#: inc/theme-info.php:275
+msgid "Preloader"
+msgstr ""
+
+#: inc/theme-info.php:280
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/theme-info.php:285
+msgid "RTL Support"
+msgstr ""
+
+#: inc/theme-info.php:290
+msgid "Sidebar Options (Full, Left and Right)"
+msgstr ""
+
+#: inc/theme-info.php:295
+msgid "Gutenberg Compatible"
+msgstr ""
+
+#: inc/theme-info.php:300
+msgid "1 Click Demo Import"
+msgstr ""
+
+#: inc/theme-info.php:306
+msgid "Limited"
+msgstr ""
+
+#: inc/theme-info.php:307
+msgid "Extended"
+msgstr ""
+
+#: inc/theme-info.php:310
+msgid "Light and Dark Mode"
+msgstr ""
+
+#: inc/theme-info.php:315
+msgid "800+ Google Fonts"
+msgstr ""
+
+#: inc/theme-info.php:320
+msgid "Social Sharing Icons"
+msgstr ""
+
+#: inc/theme-info.php:325
+msgid "Author Details in Single Post"
+msgstr ""
+
+#: inc/theme-info.php:330
+msgid "Author Widget with Social Icons"
+msgstr ""
+
+#: inc/theme-info.php:336
+msgid "WooCommerce Extra Settings"
+msgstr ""
+
+#: inc/theme-info.php:341
+msgid "Products Wishlist"
+msgstr ""
+
+#: inc/theme-info.php:346
+msgid "Products Compare"
+msgstr ""
+
+#: inc/theme-info.php:351
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/theme-info.php:356
+msgid "Breadcrumb Display"
+msgstr ""
+
+#: inc/theme-info.php:361
+msgid "Footer Editor"
+msgstr ""
+
+#: inc/theme-info.php:366
+msgid "Related Posts"
+msgstr ""
+
+#: inc/theme-info.php:371
+msgid "Header Slider"
+msgstr ""
+
+#: inc/theme-info.php:376
+msgid "Testimonial Slider"
+msgstr ""
+
+#: inc/theme-info.php:381
+msgid "Footer Columns Widgets"
+msgstr ""
+
+#: inc/theme-info.php:386
+msgid "4 Extra PRO Demos"
+msgstr ""
+
+#: inc/theme-info.php:391
+msgid "Priority Support"
+msgstr ""
+
+#: inc/theme-info.php:398
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: inc/theme-info.php:411
+msgid " Please "
+msgstr ""
+
+#: inc/theme-info.php:411
+msgid "rate our theme"
+msgstr ""
+
+#: inc/theme-info.php:412
+msgid ""
+"★★★★★ to help us spread the word. Thank you from the Spiracle Themes team!"
+msgstr ""
+
+#: own-shop-pro/class-customize.php:74
+msgid "Own Shop Pro"
+msgstr ""
+
+#: own-shop-pro/class-customize.php:75
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: template-parts/page/content-page.php:19
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/page/content-page.php:29
+#, php-format
+msgid "Edit %s"
+msgstr ""
